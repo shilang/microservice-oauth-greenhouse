@@ -86,9 +86,7 @@
 5. [认证鉴权与API权限控制在微服务架构中的设计与实现（四）](http://blueskykong.com/2017/10/26/security4/)
 6. [微服务架构中整合网关、权限服务](http://blueskykong.com/2017/12/10/integration/)
 
-#### 订阅最新文章，欢迎关注我的公众号
 
-![微信公众号](http://image.blueskykong.com/wechat-public-code.jpg)
 
 
 
